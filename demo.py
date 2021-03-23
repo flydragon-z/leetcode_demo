@@ -1,12 +1,3 @@
-# s = '12345'
-# ret = reversed(s)
-#
-# r = ret
-# print(r)
-
-
-# for i in range(2)
-
 import copy
 # from collections import Iterable
 #
