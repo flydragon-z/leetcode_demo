@@ -1,21 +1,3 @@
-# s = '12345'
-# ret = reversed(s)
-#
-# r = ret
-# print(r)
-
-import copy
-# from collections import Iterable
-#
-#
-# l = [[1, 2, 3], 4]
-# l_ = []
-# for i in l:
-#     if isinstance(i, Iterable):
-#         l_.extend(i)
-#     else:
-#         l_.append(i)
-# print(l_)
 from collections import Iterable
 
 
